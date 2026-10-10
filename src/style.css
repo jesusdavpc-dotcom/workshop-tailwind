@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+  --color-coral-500: #e76f51;
+  --color-coral-600: #c4553a;
+}
